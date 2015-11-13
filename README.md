@@ -33,9 +33,9 @@ Below is a chinese instruction:
 
 ##下载以及使用
 
-下载      https://github.com/waylife/RedEnvelopeAssistant/tree/master/APK  
+下载       https://github.com/sxyseo/hongbaoapp/RedEnvelopeAssistant/tree/master/APK  
 
-演示视频      https://github.com/waylife/RedEnvelopeAssistant/tree/master/Video
+演示视频      https://github.com/sxyseo/hongbaoapp/RedEnvelopeAssistant/tree/master/Video
 ###微信红包助手
 首先打开微信，然后打开红包助手，按照提示打开红包助手服务，按下Home键，回到桌面，程序会自动运行（运行过程中请保持屏幕常亮）。
 
@@ -47,9 +47,9 @@ Below is a chinese instruction:
 ##反馈与建议
 欢迎反馈bug以及提出改进建议  
 有任何使用方面的问题也可以提出
-https://github.com/waylife/RedEnvelopeAssistant/issues/new
+https://github.com/sxyseo/hongbaoapp/RedEnvelopeAssistant/issues/new
 或者
-https://github.com/waylife/RedEnvelopeAssistant/issues/2  
+https://github.com/sxyseo/hongbaoapp/RedEnvelopeAssistant/issues/2  
 
 ##已知问题
 ###微信红包助手
