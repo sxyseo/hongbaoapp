@@ -16,9 +16,9 @@ If you want to know more, check out the apk file  and video.
 
 Download
 only available for Android 4.4+
-https://github.com/waylife/RedEnvelopeAssistant/tree/master/APK
+https://github.com/sxyseo/hongbaoapp/tree/master/APK
 
-Video     https://github.com/waylife/RedEnvelopeAssistant/tree/master/Video
+Video     https://github.com/sxyseo/hongbaoapp/tree/master/Video
 
 
 #Compile
